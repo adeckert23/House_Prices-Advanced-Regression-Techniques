@@ -14,7 +14,7 @@ I performed this work by myself, without the aid of a team.
 Please check my [Jupyter Notebook](House_Prices-Advanced-Regression-Techniques/EDA.ipynb)
 
 For some data visualization, please see the below:
-* I used a [correlation heat map] (CorrelationHeatMap1), to see which features may be [highly correlated](CorrelationHeatMap2.png)
+* I used a [correlation heat map](CorrelationHeatMap1.png), to see which features may be [highly correlated](CorrelationHeatMap2.png) to possibly eliminate features.
 * [The original distribution of sales price](SalePriceDistribution.png)
 * [After I transformed the sale price with the natural log, so it would be normally distributed](After-LogSalePriceDistribution.png)
 * [Showing the relationship between price and Neighborhood](SalePrice_v_Neighborhood.png).  I ended up combining some neighborhoods that showed similar pricing, and then dummied them, because this was 25, and I combined them down to 4.
