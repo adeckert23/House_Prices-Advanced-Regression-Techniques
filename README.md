@@ -11,7 +11,7 @@ For the competition with the actual test dataset, my submission received the bes
 
 I performed this work by myself, without the aid of a team.
 
-Please check my [Jupyter Notebook](House_Prices-Advanced-Regression-Techniques/EDA.ipynb)
+Please check my Jupyter Notebook, as I walk through with comments, my thinking each step of the way.
 
 For some data visualization, please see the below:
 * I used a [correlation heat map](CorrelationHeatMap1.png), to see which features may be [highly correlated](CorrelationHeatMap2.png) to possibly eliminate features.
